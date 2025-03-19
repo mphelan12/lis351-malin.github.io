@@ -1,0 +1,33 @@
+html{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', serif}
+h1{font-weight: bolder; color:rgb(34, 40, 115)}
+h2{font-weight: bold; color:rgb(202, 123, 210)}
+h3{color:rgb(141, 83, 196)}
+h4{color:rgb(154, 18, 136)}
+
+body {
+    margin: 20px;
+    padding: 10px;
+    background-color: #fefff7
+}
+img {
+    border: 1px solid #2c1a4d;
+    border-radius: 4px solid#60478f;
+    padding: 5px;
+    width: 250px;
+  }
+
+article{ display: block; font:'Gill Sans'; font-weight:600}
+
+table, th, td {
+    border: 1.5px solid rgb(84, 54, 104);
+    border-collapse: collapse
+  }
+
+th {text-align: left;}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
